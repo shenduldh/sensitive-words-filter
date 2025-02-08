@@ -1,0 +1,8 @@
+click
+loguru
+fastapi
+uvicorn
+pydantic
+watchfiles
+python-dotenv
+jieba

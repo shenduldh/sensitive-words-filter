@@ -62,7 +62,6 @@ class DFA:
 
 
 class SensitiveFilter:
-
     def __init__(self, sensitive_words_path, tokenized_words_path) -> None:
         self.jieba = jieba
         self.dfa = DFA()
